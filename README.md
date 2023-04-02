@@ -1,0 +1,1 @@
+# rs_easter_event_version
